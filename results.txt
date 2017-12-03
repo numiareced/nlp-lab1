@@ -1,0 +1,14 @@
+Results: 
+
+HMM algorithm was applied to Brown and UD data (english). 
+CRF algorithm was applied to UD data (english). 
+
+Results files can be find: 
+HMM(Brown) output/B?.txt 
+HMM(UD) ud_output/B1-5.txt 
+CRF(UD) ud_output_B?_crf.txt 
+
+Accurancy percent (correct tags):
+HMM (Brown): 
+CRF (UD):
+HMM (UD): 
