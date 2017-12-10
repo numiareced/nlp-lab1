@@ -9,6 +9,6 @@ HMM(UD) ud_output/B1-5.txt
 CRF(UD) ud_output_B?_crf.txt 
 
 Accurancy percent (correct tags):
-HMM (Brown): 
-CRF (UD):
-HMM (UD): 
+HMM (Brown): 90.79406648816621 
+CRF (UD): 92.0995308310992
+HMM (UD): 85.51441018766755 
