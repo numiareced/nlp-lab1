@@ -10,5 +10,16 @@ CRF(UD) ud_output_B?_crf.txt
 
 Accurancy percent (correct tags):
 HMM (Brown): 90.79406648816621 
-CRF (UD): 92.0995308310992
-HMM (UD): 85.51441018766755 
+
+
+CRF English : 92.0995308310992
+CRF Espanol:  95.07511690379067
+CRF Norvegian : 88.14531548757171
+CRF Dutch : 92.41803278688525
+
+HMM English :  85.51441018766755 
+HMM Espanol : 91.37399263754851
+HMM Norvegian: 81.11854684512429
+HMM Dutch : 91.37399263754851 
+
+Overall CRF algorithm showed better results than HMM
